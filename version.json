@@ -1,8 +1,8 @@
 {
-  "version": "2.7.0",
-  "build": 270,
-  "url": "https://github.com/Natan148/lachtof-releases/releases/download/v2.7.0/lachtof-merabenu-v2.7.0.apk",
-  "size_mb": 40,
+  "version": "2.8.0",
+  "build": 280,
+  "url": "https://github.com/Natan148/lachtof-releases/releases/download/v2.8.0/lachtof-merabenu-v2.8.0.apk",
+  "size_mb": 41,
   "changelog": "ראה הודעות commit לפרטים",
   "date": "2026-05-28",
   "min_android": 9
