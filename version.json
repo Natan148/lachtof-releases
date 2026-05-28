@@ -1,9 +1,9 @@
 {
-  "version": "2.7",
-  "build": 27,
-  "url": "https://github.com/Natan148/lachtof-releases/releases/download/v2.7/lachtof-merabenu-v2.7.apk",
-  "size_mb": null,
-  "changelog": "תיקון מיקום בועה, אייקון מקצועי, שיפורי ממשק",
+  "version": "2.7.0",
+  "build": 270,
+  "url": "https://github.com/Natan148/lachtof-releases/releases/download/v2.7.0/lachtof-merabenu-v2.7.0.apk",
+  "size_mb": 40,
+  "changelog": "ראה הודעות commit לפרטים",
   "date": "2026-05-28",
   "min_android": 9
 }
