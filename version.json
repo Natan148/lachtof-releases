@@ -1,9 +1,9 @@
 {
-  "version": "2.9.2",
-  "build": 292,
-  "url": "https://github.com/Natan148/lachtof-releases/releases/download/v2.9.2/lachtof-merabenu-v2.9.2.apk",
+  "version": "2.9.3",
+  "build": 293,
+  "url": "https://github.com/Natan148/lachtof-releases/releases/download/v2.9.3/lachtof-merabenu-v2.9.3.apk",
   "size_mb": 47,
-  "changelog": "✨ חדש בגרסה 2.9.2\n\nנוספו ספרים כלליים: תהילים, קיצור שולחן ערוך, שמירת הלשון ופלא יועץ. ניתן לבחור ספר כללי ישירות ממסך הבית או מהספרייה.",
+  "changelog": "✨ חדש בגרסה 2.9.3\n\nניתן כעת לאפס התקדמות של ספר ספציפי לפי בחירה. בנוסף, תוקנה תצוגת ההתקדמות בסטטיסטיקות ועוד שיפורים.",
   "date": "2026-06-08",
   "min_android": 9
 }
